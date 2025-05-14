@@ -14,7 +14,7 @@ A simple Python-based application to manage student records. It allows adding, d
 * 🗑️ **Delete Student:** Remove a student by roll number.
 * 🚪 **Exit:** Close the application.
 
-🚀 **Usage:**
+🚀 **Usage:
 --------------
 1. Run the script and follow the on-screen menu.
 2. Choose an option by entering a number (1-6).
