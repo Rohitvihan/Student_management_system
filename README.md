@@ -39,8 +39,6 @@ Enter Age: 20
 ✅ Student with roll number 1 added successfully.  
 ```
 
----
-
 🧰 **Technologies Used:**
 --------------------------
 * 🐍 **Language:** Python
