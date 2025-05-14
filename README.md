@@ -12,7 +12,7 @@ A simple Python-based application to manage student records. It allows adding, d
 * 🔍 **Search Student:** Find a student by roll number.
 * ✏️ **Update Student:** Modify the details of an existing student.
 * 🗑️ **Delete Student:** Remove a student by roll number.
-* 🚪 **Exit:** Close the application
+* 🚪 **Exit:** Close the application.
 
 🚀 **Usage:**
 --------------
