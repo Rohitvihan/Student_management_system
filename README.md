@@ -5,7 +5,7 @@
 A simple Python-based application to manage student records. It allows adding, displaying, searching, updating, and deleting student information.
 
 
-💡 **Features**
+💡 **Features**:
 ----------------
 * 📥 **Add Student:** Enter roll number, name, and age to add a new student.
 * 📋 **Display Students:** View the list of all registered students.
