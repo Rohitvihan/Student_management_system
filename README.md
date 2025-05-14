@@ -22,7 +22,7 @@ A simple Python-based application to manage student records. It allows adding, d
 4. View the list of students anytime by selecting **Display Students**.
 
 
-## 💻 **Example:**
+💻Example:
 ------------------
 ```
 📚 Student Management System  
