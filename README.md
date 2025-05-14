@@ -42,5 +42,5 @@ Enter Age: 20
 🧰 **Technologies Used:**
 --------------------------
 * 🐍 **Language:** Python
-* 💡 **Concepts:** Classes, Dictionaries, User Input
+* 💡 **Concepts:** Classes, Dictionaries, User Input.
 
